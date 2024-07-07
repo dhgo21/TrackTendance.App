@@ -12,11 +12,19 @@ Onces the Login is successful--
 <br>
 Here are some screenshorts of project:-
 <br>
+
 ![Screenshot (122)](https://github.com/dhgo21/TrackTendance.App/assets/91668020/66c57190-ff12-4331-9d46-54036097078b)
+
 <br>
+
 ![Screenshot (123)](https://github.com/dhgo21/TrackTendance.App/assets/91668020/aac65e3b-2a9b-4acd-8ee4-b9c32c159f95)
+
 <br>
+
 ![Screenshot (124)](https://github.com/dhgo21/TrackTendance.App/assets/91668020/018bddaf-8ece-42dc-a425-f449628b35df)
+
 <br>
+
 ![Screenshot (125)](https://github.com/dhgo21/TrackTendance.App/assets/91668020/75c93091-5345-4d14-b20f-8d67ee0b5f67)
+
 <br>
